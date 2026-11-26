@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,hcaptcha.com
